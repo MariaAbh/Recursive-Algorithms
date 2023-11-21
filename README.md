@@ -25,4 +25,7 @@ Python 3.8
 <a id="lauch"></a>
 ## Launch
 From a terminal having python:
+
+```Bash
 python [FileName.py]
+```
